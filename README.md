@@ -20,3 +20,6 @@ The calculator is designed in a way that it can easily be extended to include mo
 
 Conclusion:
 This simple Java calculator is a well-structured, functional program for performing basic to moderately advanced mathematical calculations. 
+
+
+![image](https://github.com/user-attachments/assets/fb2e62a9-c36a-4ae9-94fd-b9fb8626c03c)
