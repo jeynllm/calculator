@@ -23,3 +23,9 @@ This simple Java calculator is a well-structured, functional program for perform
 
 
 ![image](https://github.com/user-attachments/assets/fb2e62a9-c36a-4ae9-94fd-b9fb8626c03c)
+
+![image](https://github.com/user-attachments/assets/56896f52-6fad-4338-b1e1-087508213ef3)
+
+![image](https://github.com/user-attachments/assets/758e16eb-d542-4865-80ed-cb46f0a54908)
+
+
